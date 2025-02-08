@@ -2,6 +2,8 @@
 
 This is an informative website about Renaissance art, covering its characteristics, iconic masters, and legacy.
 
+https://renaissance-art.netlify.app/
+
 # Technologies Used
 
 - HTML5
